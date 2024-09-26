@@ -1,0 +1,1 @@
+# NOTE: Data from `data/madlibStories.json` is from this github page: https://github.com/chroline/madlibs-api
